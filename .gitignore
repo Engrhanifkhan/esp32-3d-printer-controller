@@ -1,0 +1,20 @@
+# Arduino / ESP32 build artifacts
+build/
+*.bin
+*.hex
+*.elf
+
+# Editor / IDE directories
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / credentials
+*.txt
+New Text Document.txt
